@@ -15,7 +15,7 @@ mail($destino,$asunto,$cuerpo,$cabeceras);
 
 echo “Se ha enviado el mensaje correctamente”;
 
-echo "Se ha modificado desde el ex-colaborador"
+echo "Se ha modificado desde el ex-colaborador";
 ?>
 
 Fuente: https://www.ejemplode.com/20-php/66-ejemplo_de_correo_o_email_en_php_con_html.html#ixzz6io3QSW32
